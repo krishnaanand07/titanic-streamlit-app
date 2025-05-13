@@ -33,3 +33,6 @@ This is an interactive Streamlit web application that performs **Exploratory Dat
 ```bash
 git clone https://github.com/krishnaanand07/titanic-streamlit-app.git
 cd titanic-streamlit-app
+
+
+**Streamlit app link:-https://titanic-eda-app.streamlit.app/**
